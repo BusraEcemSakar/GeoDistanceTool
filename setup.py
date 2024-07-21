@@ -11,14 +11,14 @@ setup(
     name='GeoDistanceTool',
     version='0.1',
     description='A Python library for calculating distances between geographical coordinates.',
-    long_description=read_long_description(),  # Include the long description from README
-    long_description_content_type='text/markdown',  # Set the format of the long description
+    long_description=read_long_description(),
+    long_description_content_type='text/markdown',
     author='Büşra Ecem Sakar',
     author_email='busra.ecem.sakar@gmail.com',
-    url='https://github.com/BusraEcemSakar/GeoDistanceTool',  # URL to your GitHub repository
+    url='https://github.com/BusraEcemSakar/GeoDistanceTool',
     packages=find_packages(),
     install_requires=[
-        'numpy',  # Example dependencies if needed
+        'numpy',
     ],
     python_requires='>=3.6',
     classifiers=[
