@@ -13,7 +13,7 @@ setup(
     description='A Python library for calculating distances between geographical coordinates.',
     long_description=read_long_description(),
     long_description_content_type='text/markdown',
-    author='Büşra Ecem Sakar',
+    author='Busra Ecem Sakar',
     author_email='busra.ecem.sakar@gmail.com',
     url='https://github.com/BusraEcemSakar/GeoDistanceTool',
     packages=find_packages(),
